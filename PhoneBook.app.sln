@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook.app", "PhoneBook.app\PhoneBook.app.csproj", "{97DCCEA6-B52B-4B83-AD94-682F36BD0F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{258C3A99-D3AD-43DB-8284-A59F568FBBB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{10E42A9D-BD79-489E-AEAC-9E037F545481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97DCCEA6-B52B-4B83-AD94-682F36BD0F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DCCEA6-B52B-4B83-AD94-682F36BD0F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DCCEA6-B52B-4B83-AD94-682F36BD0F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DCCEA6-B52B-4B83-AD94-682F36BD0F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{258C3A99-D3AD-43DB-8284-A59F568FBBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258C3A99-D3AD-43DB-8284-A59F568FBBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258C3A99-D3AD-43DB-8284-A59F568FBBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258C3A99-D3AD-43DB-8284-A59F568FBBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E42A9D-BD79-489E-AEAC-9E037F545481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E42A9D-BD79-489E-AEAC-9E037F545481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E42A9D-BD79-489E-AEAC-9E037F545481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E42A9D-BD79-489E-AEAC-9E037F545481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D44D88-190D-4FB2-AF27-8C90F9E9C3F0}
+	EndGlobalSection
+EndGlobal
